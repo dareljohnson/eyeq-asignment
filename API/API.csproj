@@ -5,7 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\MongoDBDemo\API.Data.csproj" />
+    <ProjectReference Include="..\API.Data\API.Data.csproj" />
   </ItemGroup>
 
 

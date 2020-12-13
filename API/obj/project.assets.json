@@ -4797,8 +4797,8 @@
     },
     "API.Data/1.0.0": {
       "type": "project",
-      "path": "../MongoDBDemo/API.Data.csproj",
-      "msbuildProject": "../MongoDBDemo/API.Data.csproj"
+      "path": "../API.Data/API.Data.csproj",
+      "msbuildProject": "../API.Data/API.Data.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -4813,11 +4813,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Darel\\Source\\Repos\\EyeQ-Interview Project\\API\\API.csproj",
+      "projectUniqueName": "C:\\Users\\Darel\\Source\\Repos\\eyeq-asignment\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\Users\\Darel\\Source\\Repos\\EyeQ-Interview Project\\API\\API.csproj",
+      "projectPath": "C:\\Users\\Darel\\Source\\Repos\\eyeq-asignment\\API\\API.csproj",
       "packagesPath": "C:\\Users\\Darel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Darel\\Source\\Repos\\EyeQ-Interview Project\\API\\obj\\",
+      "outputPath": "C:\\Users\\Darel\\Source\\Repos\\eyeq-asignment\\API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -4837,8 +4837,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Darel\\Source\\Repos\\EyeQ-Interview Project\\MongoDBDemo\\API.Data.csproj": {
-              "projectPath": "C:\\Users\\Darel\\Source\\Repos\\EyeQ-Interview Project\\MongoDBDemo\\API.Data.csproj"
+            "C:\\Users\\Darel\\Source\\Repos\\eyeq-asignment\\API.Data\\API.Data.csproj": {
+              "projectPath": "C:\\Users\\Darel\\Source\\Repos\\eyeq-asignment\\API.Data\\API.Data.csproj"
             }
           }
         }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Darel\\Source\\Repos\\EyeQ-Interview Project\\MongoDBDemo\\API.Data.csproj": {}
+    "C:\\Users\\Darel\\Source\\Repos\\eyeq-asignment\\API.Data\\API.Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Darel\\Source\\Repos\\EyeQ-Interview Project\\MongoDBDemo\\API.Data.csproj": {
+    "C:\\Users\\Darel\\Source\\Repos\\eyeq-asignment\\API.Data\\API.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Darel\\Source\\Repos\\EyeQ-Interview Project\\MongoDBDemo\\API.Data.csproj",
+        "projectUniqueName": "C:\\Users\\Darel\\Source\\Repos\\eyeq-asignment\\API.Data\\API.Data.csproj",
         "projectName": "API.Data",
-        "projectPath": "C:\\Users\\Darel\\Source\\Repos\\EyeQ-Interview Project\\MongoDBDemo\\API.Data.csproj",
+        "projectPath": "C:\\Users\\Darel\\Source\\Repos\\eyeq-asignment\\API.Data\\API.Data.csproj",
         "packagesPath": "C:\\Users\\Darel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Darel\\Source\\Repos\\EyeQ-Interview Project\\MongoDBDemo\\obj\\",
+        "outputPath": "C:\\Users\\Darel\\Source\\Repos\\eyeq-asignment\\API.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
