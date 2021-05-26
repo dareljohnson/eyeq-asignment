@@ -50,8 +50,8 @@ namespace API.Controllers
                 PlayList playList = new PlayList
                 {
                     CreatedAt = DateTime.Now,
-                    Song = playListItem.SongTitle,
-                    Artist = playListItem.StageName
+                    Song = playListDto.SongTitle,
+                    Artist = playListDto.Artist.StageName
                 };
 
                 if (playList != null)
@@ -65,7 +65,7 @@ namespace API.Controllers
         // DELETE /api/playlist/delete
         [HttpDelete("{id:length(36)}")]
         [Route("delete")]
-        public async Task<ActionResult<PlayList>> DeleteAlbum([FromBody] PlayListDto playListDto)
+        public async Task<ActionResult<PlayList>> DeletePlayList([FromBody] PlayListDto playListDto)
         {
             if (playListDto.Id == Guid.Empty)
             {

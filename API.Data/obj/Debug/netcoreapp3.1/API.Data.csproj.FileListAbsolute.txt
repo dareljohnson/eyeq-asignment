@@ -59,7 +59,6 @@ C:\Users\Darel\Source\Repos\eyeq-asignment\API.Data\bin\Debug\netcoreapp3.1\Shar
 C:\Users\Darel\Source\Repos\eyeq-asignment\API.Data\bin\Debug\netcoreapp3.1\runtimes\win\native\libzstd.dll
 C:\Users\Darel\Source\Repos\eyeq-asignment\API.Data\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy32.dll
 C:\Users\Darel\Source\Repos\eyeq-asignment\API.Data\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy64.dll
-C:\Users\Darel\Source\Repos\eyeq-asignment\API.Data\obj\Debug\netcoreapp3.1\API.Data.csprojAssemblyReference.cache
 C:\Users\Darel\Source\Repos\eyeq-asignment\API.Data\obj\Debug\netcoreapp3.1\API.Data.AssemblyInfoInputs.cache
 C:\Users\Darel\Source\Repos\eyeq-asignment\API.Data\obj\Debug\netcoreapp3.1\API.Data.AssemblyInfo.cs
 C:\Users\Darel\Source\Repos\eyeq-asignment\API.Data\obj\Debug\netcoreapp3.1\API.Data.csproj.CoreCompileInputs.cache
@@ -67,3 +66,4 @@ C:\Users\Darel\Source\Repos\eyeq-asignment\API.Data\obj\Debug\netcoreapp3.1\API.
 C:\Users\Darel\Source\Repos\eyeq-asignment\API.Data\obj\Debug\netcoreapp3.1\API.Data.dll
 C:\Users\Darel\Source\Repos\eyeq-asignment\API.Data\obj\Debug\netcoreapp3.1\API.Data.pdb
 C:\Users\Darel\Source\Repos\eyeq-asignment\API.Data\obj\Debug\netcoreapp3.1\API.Data.genruntimeconfig.cache
+C:\Users\Darel\Source\Repos\eyeq-asignment\API.Data\obj\Debug\netcoreapp3.1\API.Data.csproj.AssemblyReference.cache

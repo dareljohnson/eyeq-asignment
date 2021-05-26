@@ -60,11 +60,11 @@ namespace API.Controllers
                 Artist = new Artist
                 {
                     Id = Guid.NewGuid(),
-                    StageName = albumDto.Artist.StageName !=null ? albumDto.Artist.StageName : string.Empty,
-                    NumberOfTracks = albumDto.Artist.NumberOfTracks !=null ? albumDto.Artist.NumberOfTracks : new int()
+                    StageName = albumDto.Artist.StageName != string.Empty ? albumDto.Artist.StageName : string.Empty,
+                    NumberOfTracks = albumDto.Artist.NumberOfTracks > 0 ? albumDto.Artist.NumberOfTracks : new int()
                 },
-                RecordLabel = albumDto.RecordLabel !=null ? albumDto.RecordLabel : string.Empty,
-                ReleaseDate = albumDto.ReleaseDate !=null ? albumDto.ReleaseDate : new DateTime(),
+                RecordLabel = albumDto.RecordLabel != string.Empty ? albumDto.RecordLabel : string.Empty,
+                ReleaseDate = albumDto.ReleaseDate != new Album().ReleaseDate ? albumDto.ReleaseDate : new DateTime(),
                 Songs = new List<Song>(songs)
               
             };

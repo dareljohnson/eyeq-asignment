@@ -44,7 +44,7 @@ namespace API.Controllers
             Artist artist = new Artist
             {
                 StageName = artistDto.StageName ?? string.Empty,
-                NumberOfTracks = artistDto.NumberOfTracks != null ? artistDto.NumberOfTracks : new int()
+                NumberOfTracks = artistDto.NumberOfTracks > 0 ? artistDto.NumberOfTracks : new int()
             };
 
             if (artist != null)

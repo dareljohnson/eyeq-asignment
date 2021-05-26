@@ -45,7 +45,7 @@ namespace API.Controllers
             {
                 SongTitle = songDto.SongTitle ?? string.Empty,
                 StageName = songDto.StageName ?? string.Empty,
-                Duration = songDto.Duration != null ? songDto.Duration : new double()
+                Duration = songDto.Duration != 0.00 ? songDto.Duration : new double()
             };
 
             if (song != null)
